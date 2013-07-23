@@ -9,5 +9,5 @@ class Utils {
 public class MyClass {
 	public void doSomething() { 
         String[] args = new String[] {"microsoft","apple","linux","oracle"};
-        Arrays.sort(args, Utils::compareByLength); 
+//        Arrays.sort(args, Utils::compareByLength); 
     }}
